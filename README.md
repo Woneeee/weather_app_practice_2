@@ -7,7 +7,7 @@
 - [x] react-router-dom
 - [x] axios
 - [x] tan-stack-query
-- [ ] react-helmet-asynce
+- [x] react-helmet-asynce
 
 ### 작업내용
 
@@ -18,5 +18,5 @@
 - [x] 스타일
 - [x] 현재위치 얻어오기
 - [x] 현재위치에 맞는 날씨 정보 요청
-- [ ] 타이틀 설정
+- [x] 타이틀 설정
 - [x] 코드 리팩토링
